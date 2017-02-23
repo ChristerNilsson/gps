@@ -1,7 +1,7 @@
 setup = -> 
 	createCanvas windowWidth,windowHeight
 	print navigator.geolocation
-	textSize 32
+	textSize 72
 
 showPosition = (position) ->
 	bg 0.5
